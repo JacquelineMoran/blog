@@ -7,10 +7,10 @@
 #container {
         margin: 70px;
         padding: auto;
+        border: 2px solid black;
 }
 
 #post {
-    border: 2px solid black;
     margin: 50px;
     padding: 40px;
 }
