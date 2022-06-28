@@ -15,9 +15,20 @@
     padding: 40px;
 }
 
+#post p {
+    margin-top: 40px;
+}
+
+#header {
+    background-color: brown;
+    text-align: center;
+    color: black;
+    box-shadow: 0px 5px 30px 0px black;
+}
+
 body {
 
-    color: blueviolet;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
