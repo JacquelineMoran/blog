@@ -13,3 +13,4 @@
 
 
 - Creado por Jacqueline Moran
+- Es QA
