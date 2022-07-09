@@ -14,3 +14,4 @@
 
 - Creado por Jacqueline Moran
 - Es QA
+- Lumni Inc
